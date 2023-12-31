@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "uid": "user1_uid",
+      "name": "User1",
+      "vanity": "user1_vanity",
+      "banned": false
+    },
+    {
+      "uid": "user2_uid",
+      "name": "User2",
+      "vanity": "user2_vanity",
+      "banned": true
+    }
+  ]
+}

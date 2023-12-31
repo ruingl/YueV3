@@ -1,0 +1,13 @@
+{
+  "appstatePath": "appstate.json",
+  "commandPrefix": "/",
+  "admins": [
+    "100054298824923", 
+    "admin_uid2", 
+    "admin_uid3"
+  ],
+  "dashboard": {
+    "username": "yuedashboard",
+    "password": "yuedashboard"
+  }
+}

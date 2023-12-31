@@ -1,0 +1,14 @@
+{
+  "threads": [
+    {
+      "threadID": "thread1_ID",
+      "name": "Group1",
+      "banned": false
+    },
+    {
+      "threadID": "thread2_ID",
+      "name": "Group2",
+      "banned": true
+    }
+  ]
+}
