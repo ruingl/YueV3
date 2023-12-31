@@ -28,3 +28,23 @@ For any bugs/issues, open an issue on <a href="https://github.com/ruingl/YueV3/i
    login with your fb bot acc, and take your appstate/cookie-array in Extensions.
 
 5. All set!
+
+----
+
+### Features:
+
+Most of the features are broken, temp disabled. some are working, some are not.
+
+1. Database:
+   YueV3's database uses JSON
+   (temp disabled cause of some cant read bug)
+
+(soon to be updated)
+
+----
+
+### Credits:
+
+Liane for the API's for sumi, claire, chesca and arched.
+
+Libyzxy0 for the Shoti API
