@@ -6,6 +6,7 @@ const figlet = require('figlet');
 const ora = require('ora');
 const chalk = require('chalk');
 const { spawn } = require('child_process');
+const http = require('http');
 
 const app = express();
 const port = 3000;
@@ -27,6 +28,10 @@ const dashboardPassword = dashboardConfig.password || 'yuedashboard';
 
 // Middleware to parse request bodies
 app.use(bodyParser.urlencoded({ extended: true }));
+
+app.get('/ping', (req, res) => {
+  res.send('Ping route');
+});
 
 // Express route for serving the login page
 app.get('/', (req, res) => {
